@@ -1,0 +1,11 @@
+
+.arf-table{border:#DFDFDF solid 1px;background:#fff;border-spacing:0;border-radius:0;table-layout:auto;padding:0;margin:0;width:100%;clear:both}
+.arf-table>tbody>tr>th,.arf-table>tbody>tr>td,.arf-table>thead>tr>th,.arf-table>thead>tr>td{padding:8px;vertical-align:top;background:#fff;text-align:left;border-style:solid;font-weight:normal}.arf-table>tbody>tr>th,.arf-table>thead>tr>th{position:relative;color:#333333}.arf-table>thead>tr>th{border-color:#E1E1E1;border-width:0 0 1px 1px}.arf-table>thead>tr>th:first-child{border-left-width:0}.arf-table>tbody>tr{z-index:1}.arf-table>tbody>tr>td{border-color:#EDEDED;border-width:1px 0 0 1px}.arf-table>tbody>tr>td:first-child{border-left-width:0}.arf-table>tbody>tr:first-child>td{border-top-width:0}.arf-table.-clear{border:0 none}.arf-table.-clear>tbody>tr>td,.arf-table.-clear>tbody>tr>th,.arf-table.-clear>thead>tr>td,.arf-table.-clear>thead>tr>th{border:0 none;padding:4px}
+
+.arf-button button-primary {
+    background: #2271b1;
+    border-color: #2271b1;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+}
